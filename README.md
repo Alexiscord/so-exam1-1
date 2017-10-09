@@ -14,38 +14,38 @@ Con estas actividades he afinazado sobre algunos de los comandos de linux que pe
   * sum_all_numbers  
   Se ha calculado la suma:
   
-  ![Resultado](Captura.png)
+  ![Resultado](Captura.PNG)
   
   Aquí el texto que contiene.  
   
-  ![Resultado2](Captura2.png)
+  ![Resultado2](Captura2.PNG)
   
   * replace_spaces_in_filenames
   Se ha reemplazado corréctamente.  
-  ![Resultado3](Captura3.png) 
+  ![Resultado3](Captura3.PNG) 
   
   * reverse_readme  
   Salida Original  
-  ![Resultado4](Captura4.png)  
+  ![Resultado4](Captura4.PNG)  
   Salida Inversa  
-  ![Resultado5](Captura5.png)
+  ![Resultado5](Captura5.PNG)
     
   * remove_duplicated_lines  
    Salida Original  
-  ![Resultado6](Captura6.png)  
+  ![Resultado6](Captura6.PNG)  
   Salida Inversa  
-  ![Resultado7](Captura7.png)  
+  ![Resultado7](Captura7.PNG)  
   
   * disp_table  
   Se muestra el cambio:  
-  ![Resultado8](Captura8.png)  
+  ![Resultado8](Captura8.PNG)  
    
   
 4. Realice un script que cumpla las condiciones que se describen a continuación. Presente capturas de pantalla relevantes como evidencias del funcionamiento.  
   Se muestra el script:  
-  ![scriptUno](script2.png)  
+  ![scriptUno](script2.PNG)  
   A continuación la evidencia del funcionamiento:  
-  ![scriptDos](script.png)  
+  ![scriptDos](script.PNG)  
   
 5. Describa el funcionamiento del código fuente rickroll.c del repositorio de github https://github.com/jvns/kernel-module-fun.
 
