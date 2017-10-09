@@ -4,7 +4,8 @@
 **Nombre:** Alexis Córdoba.  
 **Codigo:** A00232548.  
 **Tema:** Comandos de Linux, Virtualización  
-**Correo:** alexiscord1@gmail.com
+**Correo:** alexiscord1@gmail.com  
+**URL:** https://github.com/Alexiscord/so-exam1-1/
 
 ### Descripción
 Con estas actividades he afinazado sobre algunos de los comandos de linux que permiten hacer algunas acciones útiles tales como el recorrido o iteración de las lineas sobre un archivo de texto y a manipularalas de ciertas maneras. También se construye conocimiento sobre los scripts y la programación de tareas a base de estos últimos.
